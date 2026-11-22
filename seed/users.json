@@ -1,0 +1,553 @@
+[
+  {
+    "id": "ananya",
+    "name": "Ananya Rao",
+    "avatarSeed": "ananya",
+    "headline": "Frontend Architect & Creative Designer | Design Systems Specialist",
+    "bio": "Passionate about creating fluid, accessible user experiences with React and Tailwind. Entering my first major hackathon to build impactful tech with a strong cross-functional team.",
+    "skills": [
+      { "name": "React", "domain": "frontend", "confidence": 5 },
+      { "name": "Tailwind CSS", "domain": "frontend", "confidence": 4 },
+      { "name": "Figma", "domain": "design", "confidence": 4 },
+      { "name": "Product Management", "domain": "product", "confidence": 3 }
+    ],
+    "preferredRoles": ["Frontend", "PM"],
+    "tracks": ["AI & Emerging Tech", "Web & Mobile"],
+    "goals": ["win", "learn"],
+    "ambition": 4,
+    "collab": { "pace": "async", "structure": "planned" },
+    "availability": {
+      "timezone": "Asia/Kolkata",
+      "utcOffsetMinutes": 330,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 6
+    },
+    "experienceLevel": "first_timer",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@ananyarao_dev"
+  },
+  {
+    "id": "rohan",
+    "name": "Rohan Mehta",
+    "avatarSeed": "rohan",
+    "headline": "AI/ML Engineer & Systems Researcher | PyTorch & RAG Builder",
+    "bio": "Experienced ML practitioner focusing on generative agents, fast API inference, and production models. Looking to team up with a sharp frontend dev to build a winning prototype.",
+    "skills": [
+      { "name": "PyTorch", "domain": "ai_ml", "confidence": 4 },
+      { "name": "scikit-learn", "domain": "ai_ml", "confidence": 4 },
+      { "name": "Python (FastAPI)", "domain": "backend", "confidence": 4 },
+      { "name": "React", "domain": "frontend", "confidence": 2 }
+    ],
+    "preferredRoles": ["AI/ML", "Backend"],
+    "tracks": ["AI & Emerging Tech", "Web & Mobile"],
+    "goals": ["win", "learn"],
+    "ambition": 4,
+    "collab": { "pace": "sync", "structure": "planned" },
+    "availability": {
+      "timezone": "Asia/Kolkata",
+      "utcOffsetMinutes": 330,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 6
+    },
+    "experienceLevel": "some",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@rohan_ml"
+  },
+  {
+    "id": "priya",
+    "name": "Priya Sharma",
+    "avatarSeed": "priya",
+    "headline": "Data Scientist & Deep Learning Specialist | Applied NLP",
+    "bio": "Specialize in feature engineering, embedding models, and data pipelines. Excited to collaborate on AI-driven products with quick feedback cycles.",
+    "skills": [
+      { "name": "LangChain & RAG", "domain": "ai_ml", "confidence": 4 },
+      { "name": "Pandas & NumPy", "domain": "data", "confidence": 4 },
+      { "name": "SQL & Analytics", "domain": "data", "confidence": 4 },
+      { "name": "Python (FastAPI)", "domain": "backend", "confidence": 3 }
+    ],
+    "preferredRoles": ["AI/ML", "Backend"],
+    "tracks": ["AI & Emerging Tech", "Healthcare & BioTech"],
+    "goals": ["learn", "portfolio"],
+    "ambition": 4,
+    "collab": { "pace": "async", "structure": "planned" },
+    "availability": {
+      "timezone": "Asia/Kolkata",
+      "utcOffsetMinutes": 330,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 8
+    },
+    "experienceLevel": "veteran",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@priya_data"
+  },
+  {
+    "id": "vikram",
+    "name": "Vikram Shah",
+    "avatarSeed": "vikram",
+    "headline": "10x Frontend Architect | 50k Github Stars | React & Next.js Pro",
+    "bio": "Core contributor to popular open-source UI libraries and CSS frameworks. Looking to ship pixel-perfect frontend experiences with extreme performance.",
+    "skills": [
+      { "name": "React", "domain": "frontend", "confidence": 5 },
+      { "name": "Next.js", "domain": "frontend", "confidence": 5 },
+      { "name": "Tailwind CSS", "domain": "frontend", "confidence": 5 },
+      { "name": "TypeScript", "domain": "frontend", "confidence": 5 }
+    ],
+    "preferredRoles": ["Frontend", "UI/UX"],
+    "tracks": ["Web & Mobile", "AI & Emerging Tech"],
+    "goals": ["win", "portfolio"],
+    "ambition": 5,
+    "collab": { "pace": "async", "structure": "exploratory" },
+    "availability": {
+      "timezone": "Asia/Kolkata",
+      "utcOffsetMinutes": 330,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 6
+    },
+    "experienceLevel": "veteran",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@vikram_frontend"
+  },
+  {
+    "id": "arjun",
+    "name": "Arjun Kapoor",
+    "avatarSeed": "arjun",
+    "headline": "Senior Web Developer | Micro-frontends & Next.js Specialist",
+    "bio": "Obsessed with component modularity and web vitals. Seeking like-minded developers to build lightning-fast web applications.",
+    "skills": [
+      { "name": "React", "domain": "frontend", "confidence": 5 },
+      { "name": "Next.js", "domain": "frontend", "confidence": 5 },
+      { "name": "Vue.js", "domain": "frontend", "confidence": 4 },
+      { "name": "Figma", "domain": "design", "confidence": 3 }
+    ],
+    "preferredRoles": ["Frontend", "UI/UX"],
+    "tracks": ["Web & Mobile"],
+    "goals": ["portfolio", "fun"],
+    "ambition": 3,
+    "collab": { "pace": "sync", "structure": "planned" },
+    "availability": {
+      "timezone": "Asia/Kolkata",
+      "utcOffsetMinutes": 330,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 5
+    },
+    "experienceLevel": "some",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@arjun_codes"
+  },
+  {
+    "id": "emily",
+    "name": "Emily Carter",
+    "avatarSeed": "emily",
+    "headline": "AI Research Scientist | Stanford NLP Alum | LLM Fine-tuning",
+    "bio": "Deeply experienced in transformer fine-tuning, RLHF, and latency optimization. Eager to solve challenging problems with high technical difficulty.",
+    "skills": [
+      { "name": "PyTorch", "domain": "ai_ml", "confidence": 5 },
+      { "name": "Hugging Face", "domain": "ai_ml", "confidence": 5 },
+      { "name": "LLM Prompt Engineering", "domain": "ai_ml", "confidence": 5 },
+      { "name": "Python (FastAPI)", "domain": "backend", "confidence": 4 }
+    ],
+    "preferredRoles": ["AI/ML", "Backend"],
+    "tracks": ["AI & Emerging Tech"],
+    "goals": ["win", "learn"],
+    "ambition": 5,
+    "collab": { "pace": "async", "structure": "planned" },
+    "availability": {
+      "timezone": "America/Los_Angeles",
+      "utcOffsetMinutes": -480,
+      "hoursUtc": [0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 4
+    },
+    "experienceLevel": "veteran",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@emily_ai"
+  },
+  {
+    "id": "aarav",
+    "name": "Aarav Patel",
+    "avatarSeed": "aarav",
+    "headline": "Curious Learner & Python Enthusiast | High-Energy Builder",
+    "bio": "First-time hackathon attendee eager to learn AI and systems engineering. Committed to contributing 10+ hours a day and learning from experienced peers.",
+    "skills": [
+      { "name": "Python (FastAPI)", "domain": "backend", "confidence": 3 },
+      { "name": "PyTorch", "domain": "ai_ml", "confidence": 1, "wantsToLearn": true },
+      { "name": "SQL & Analytics", "domain": "data", "confidence": 2 }
+    ],
+    "preferredRoles": ["Backend", "AI/ML"],
+    "tracks": ["AI & Emerging Tech", "Web & Mobile"],
+    "goals": ["learn", "win"],
+    "ambition": 4,
+    "collab": { "pace": "sync", "structure": "planned" },
+    "availability": {
+      "timezone": "Asia/Kolkata",
+      "utcOffsetMinutes": 330,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 12
+    },
+    "experienceLevel": "first_timer",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@aarav_p"
+  },
+  {
+    "id": "sneha",
+    "name": "Sneha Joshi",
+    "avatarSeed": "sneha",
+    "headline": "Junior Dev & Design Enthusiast | Growth Mindset",
+    "bio": "Fast learner passionate about modern web apps and data visualization. Looking for welcoming teammates where I can support docs, UI, and learn ML concepts.",
+    "skills": [
+      { "name": "Tailwind CSS", "domain": "frontend", "confidence": 3 },
+      { "name": "Figma", "domain": "design", "confidence": 3 },
+      { "name": "LLM Prompt Engineering", "domain": "ai_ml", "confidence": 1, "wantsToLearn": true }
+    ],
+    "preferredRoles": ["UI/UX", "Frontend"],
+    "tracks": ["Web & Mobile", "Open Innovation"],
+    "goals": ["learn", "network"],
+    "ambition": 3,
+    "collab": { "pace": "async", "structure": "exploratory" },
+    "availability": {
+      "timezone": "Asia/Kolkata",
+      "utcOffsetMinutes": 330,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 10
+    },
+    "experienceLevel": "first_timer",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@sneha_builds"
+  },
+  {
+    "id": "karthik",
+    "name": "Karthik Nair",
+    "avatarSeed": "karthik",
+    "headline": "Senior Backend & Distributed Systems Engineer | Node & Postgres",
+    "bio": "Production backend engineer experienced in scalable microservices, low-latency queries, and resilient cloud architecture. Reliable teammate focused on solid execution.",
+    "skills": [
+      { "name": "Node.js", "domain": "backend", "confidence": 5 },
+      { "name": "PostgreSQL", "domain": "backend", "confidence": 5 },
+      { "name": "Docker", "domain": "devops", "confidence": 4 },
+      { "name": "CI/CD Pipelines", "domain": "devops", "confidence": 4 }
+    ],
+    "preferredRoles": ["Backend", "PM"],
+    "tracks": ["Web & Mobile", "Fintech & Web3"],
+    "goals": ["ship_startup", "portfolio"],
+    "ambition": 4,
+    "collab": { "pace": "async", "structure": "planned" },
+    "availability": {
+      "timezone": "Asia/Kolkata",
+      "utcOffsetMinutes": 330,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 6
+    },
+    "experienceLevel": "veteran",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@karthik_backend"
+  },
+  {
+    "id": "devon",
+    "name": "Devon Miller",
+    "avatarSeed": "devon",
+    "headline": "Cloud Architect & Kubernetes Specialist | Infrastructure Automation",
+    "bio": "I automate infra so the team can deploy without friction. Experienced with AWS, Docker, and reliable observability systems.",
+    "skills": [
+      { "name": "AWS Cloud", "domain": "devops", "confidence": 5 },
+      { "name": "Docker", "domain": "devops", "confidence": 5 },
+      { "name": "CI/CD Pipelines", "domain": "devops", "confidence": 4 },
+      { "name": "Go", "domain": "backend", "confidence": 4 }
+    ],
+    "preferredRoles": ["Backend", "PM"],
+    "tracks": ["Web & Mobile", "Open Innovation"],
+    "goals": ["win", "portfolio"],
+    "ambition": 4,
+    "collab": { "pace": "sync", "structure": "planned" },
+    "availability": {
+      "timezone": "Europe/London",
+      "utcOffsetMinutes": 0,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 8
+    },
+    "experienceLevel": "veteran",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@devon_infra"
+  },
+  {
+    "id": "rahul",
+    "name": "Rahul Verma",
+    "avatarSeed": "rahul",
+    "headline": "Go Backend Specialist & High-Concurrency Systems",
+    "bio": "Building robust APIs that scale smoothly under load. Excited to tackle challenging problems with clean domain architecture.",
+    "skills": [
+      { "name": "Go", "domain": "backend", "confidence": 4 },
+      { "name": "PostgreSQL", "domain": "backend", "confidence": 4 },
+      { "name": "Docker", "domain": "devops", "confidence": 3 }
+    ],
+    "preferredRoles": ["Backend", "PM"],
+    "tracks": ["Fintech & Web3", "AI & Emerging Tech"],
+    "goals": ["ship_startup", "learn"],
+    "ambition": 4,
+    "collab": { "pace": "async", "structure": "planned" },
+    "availability": {
+      "timezone": "Asia/Kolkata",
+      "utcOffsetMinutes": 330,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 6
+    },
+    "experienceLevel": "some",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@rahul_go"
+  },
+  {
+    "id": "meera",
+    "name": "Meera Iyer",
+    "avatarSeed": "meera",
+    "headline": "Product Designer & UX Researcher | Design Systems Lead",
+    "bio": "I craft intuitive, human-centered designs that turn complex tech into accessible workflows. Great design wins hackathon judging rounds.",
+    "skills": [
+      { "name": "Figma", "domain": "design", "confidence": 5 },
+      { "name": "UI Prototyping", "domain": "design", "confidence": 5 },
+      { "name": "Design Systems", "domain": "design", "confidence": 5 },
+      { "name": "User Research", "domain": "design", "confidence": 4 }
+    ],
+    "preferredRoles": ["UI/UX", "PM"],
+    "tracks": ["Healthcare & BioTech", "Web & Mobile"],
+    "goals": ["win", "portfolio"],
+    "ambition": 4,
+    "collab": { "pace": "async", "structure": "planned" },
+    "availability": {
+      "timezone": "Asia/Kolkata",
+      "utcOffsetMinutes": 330,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 6
+    },
+    "experienceLevel": "veteran",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@meera_ux"
+  },
+  {
+    "id": "lucas",
+    "name": "Lucas Silva",
+    "avatarSeed": "lucas",
+    "headline": "Mobile Engineer | React Native & Flutter Specialist",
+    "bio": "Delivering crisp 60fps mobile interfaces with native module integrations. Let us build an app that users love to hold in their hands.",
+    "skills": [
+      { "name": "React Native", "domain": "mobile", "confidence": 5 },
+      { "name": "Flutter", "domain": "mobile", "confidence": 4 },
+      { "name": "Swift / iOS", "domain": "mobile", "confidence": 3 },
+      { "name": "TypeScript", "domain": "frontend", "confidence": 4 }
+    ],
+    "preferredRoles": ["Frontend", "Backend"],
+    "tracks": ["Web & Mobile", "Social Good & Climate"],
+    "goals": ["portfolio", "win"],
+    "ambition": 4,
+    "collab": { "pace": "sync", "structure": "planned" },
+    "availability": {
+      "timezone": "Europe/Berlin",
+      "utcOffsetMinutes": 60,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 8
+    },
+    "experienceLevel": "some",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@lucas_mobile"
+  },
+  {
+    "id": "tanvi",
+    "name": "Tanvi Deshmukh",
+    "avatarSeed": "tanvi",
+    "headline": "Technical Product Manager | Pitch Champion & Storyteller",
+    "bio": "I translate ambiguity into clear execution sprints and compelling demo presentations. Proven track record of winning hackathon pitch stages.",
+    "skills": [
+      { "name": "Product Management", "domain": "product", "confidence": 5 },
+      { "name": "Pitching & Decks", "domain": "product", "confidence": 5 },
+      { "name": "Agile & Scrums", "domain": "product", "confidence": 4 },
+      { "name": "User Research", "domain": "design", "confidence": 3 }
+    ],
+    "preferredRoles": ["PM", "UI/UX"],
+    "tracks": ["Open Innovation", "AI & Emerging Tech"],
+    "goals": ["win", "ship_startup"],
+    "ambition": 5,
+    "collab": { "pace": "sync", "structure": "planned" },
+    "availability": {
+      "timezone": "Asia/Kolkata",
+      "utcOffsetMinutes": 330,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 6
+    },
+    "experienceLevel": "veteran",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@tanvi_pm"
+  },
+  {
+    "id": "alex",
+    "name": "Alex Zhang",
+    "avatarSeed": "alex",
+    "headline": "Data Pipeline Engineer | Real-Time Streaming & Analytics",
+    "bio": "Skilled in Apache Kafka, Spark, and PostgreSQL aggregation queries. Excited to supply clean real-time metrics for intelligent dashboards.",
+    "skills": [
+      { "name": "Data Pipelines", "domain": "data", "confidence": 5 },
+      { "name": "SQL & Analytics", "domain": "data", "confidence": 4 },
+      { "name": "Python (FastAPI)", "domain": "backend", "confidence": 4 }
+    ],
+    "preferredRoles": ["Backend", "AI/ML"],
+    "tracks": ["Fintech & Web3", "AI & Emerging Tech"],
+    "goals": ["learn", "portfolio"],
+    "ambition": 3,
+    "collab": { "pace": "async", "structure": "exploratory" },
+    "availability": {
+      "timezone": "Asia/Singapore",
+      "utcOffsetMinutes": 480,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 8
+    },
+    "experienceLevel": "some",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@alex_data"
+  },
+  {
+    "id": "neha",
+    "name": "Neha Gupta",
+    "avatarSeed": "neha",
+    "headline": "Full-Stack Dev & Creative Technologist | Vue & Node.js",
+    "bio": "Comfortable jumping between frontend widgets and backend endpoints. Love experimenting with playful animations and interactive web audio.",
+    "skills": [
+      { "name": "Vue.js", "domain": "frontend", "confidence": 4 },
+      { "name": "Node.js", "domain": "backend", "confidence": 3 },
+      { "name": "Tailwind CSS", "domain": "frontend", "confidence": 4 }
+    ],
+    "preferredRoles": ["Frontend", "Backend"],
+    "tracks": ["Web & Mobile", "Open Innovation"],
+    "goals": ["fun", "portfolio"],
+    "ambition": 3,
+    "collab": { "pace": "sync", "structure": "exploratory" },
+    "availability": {
+      "timezone": "Asia/Kolkata",
+      "utcOffsetMinutes": 330,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 6
+    },
+    "experienceLevel": "some",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@neha_creative"
+  },
+  {
+    "id": "samuel",
+    "name": "Samuel Osei",
+    "avatarSeed": "samuel",
+    "headline": "Climate Tech Advocate & Mobile Developer | Flutter Champion",
+    "bio": "Building offline-first mobile applications for social impact and sustainability. Looking for a passionate multidisciplinary team.",
+    "skills": [
+      { "name": "Flutter", "domain": "mobile", "confidence": 5 },
+      { "name": "React Native", "domain": "mobile", "confidence": 3 },
+      { "name": "UI Prototyping", "domain": "design", "confidence": 3 }
+    ],
+    "preferredRoles": ["Frontend", "UI/UX"],
+    "tracks": ["Social Good & Climate", "Web & Mobile"],
+    "goals": ["ship_startup", "network"],
+    "ambition": 4,
+    "collab": { "pace": "async", "structure": "planned" },
+    "availability": {
+      "timezone": "Africa/Accra",
+      "utcOffsetMinutes": 0,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 8
+    },
+    "experienceLevel": "some",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@samuel_impact"
+  },
+  {
+    "id": "harsh",
+    "name": "Harsh Singhal",
+    "avatarSeed": "harsh",
+    "headline": "Backend Engineer & GraphQL Architect | Apollo & PostgreSQL",
+    "bio": "Schema designer and caching guru. Passionate about well-documented APIs that give frontend teams superpowers.",
+    "skills": [
+      { "name": "GraphQL", "domain": "backend", "confidence": 5 },
+      { "name": "PostgreSQL", "domain": "backend", "confidence": 4 },
+      { "name": "Docker", "domain": "devops", "confidence": 3 }
+    ],
+    "preferredRoles": ["Backend", "PM"],
+    "tracks": ["Web & Mobile", "Fintech & Web3"],
+    "goals": ["win", "learn"],
+    "ambition": 4,
+    "collab": { "pace": "async", "structure": "planned" },
+    "availability": {
+      "timezone": "Asia/Kolkata",
+      "utcOffsetMinutes": 330,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 6
+    },
+    "experienceLevel": "some",
+    "isDiscoverable": true,
+    "teamId": null,
+    "contact": "@harsh_gql"
+  },
+  {
+    "id": "siddharth",
+    "name": "Siddharth Sen",
+    "avatarSeed": "siddharth",
+    "headline": "Full-Stack Dev in Team Alpha | Already Committed",
+    "bio": "Currently locked in with my university team building an automated legal doc scanner. Wishing everyone good luck!",
+    "skills": [
+      { "name": "React", "domain": "frontend", "confidence": 4 },
+      { "name": "Node.js", "domain": "backend", "confidence": 4 },
+      { "name": "Docker", "domain": "devops", "confidence": 3 }
+    ],
+    "preferredRoles": ["Frontend", "Backend"],
+    "tracks": ["AI & Emerging Tech"],
+    "goals": ["win"],
+    "ambition": 5,
+    "collab": { "pace": "sync", "structure": "planned" },
+    "availability": {
+      "timezone": "Asia/Kolkata",
+      "utcOffsetMinutes": 330,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 6
+    },
+    "experienceLevel": "veteran",
+    "isDiscoverable": false,
+    "teamId": "team-alpha",
+    "contact": "@sid_alpha"
+  },
+  {
+    "id": "zoya",
+    "name": "Zoya Akhtar",
+    "avatarSeed": "zoya",
+    "headline": "Lead UX Researcher in Team Cyber | Already Committed",
+    "bio": "Leading user testing sessions for our cyber security prototype. Happy to connect for post-hackathon discussions.",
+    "skills": [
+      { "name": "Figma", "domain": "design", "confidence": 5 },
+      { "name": "User Research", "domain": "design", "confidence": 5 },
+      { "name": "Pitching & Decks", "domain": "product", "confidence": 4 }
+    ],
+    "preferredRoles": ["UI/UX", "PM"],
+    "tracks": ["Web & Mobile"],
+    "goals": ["win"],
+    "ambition": 4,
+    "collab": { "pace": "async", "structure": "planned" },
+    "availability": {
+      "timezone": "Asia/Kolkata",
+      "utcOffsetMinutes": 330,
+      "hoursUtc": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0],
+      "hoursPerDay": 6
+    },
+    "experienceLevel": "some",
+    "isDiscoverable": false,
+    "teamId": "team-cyber",
+    "contact": "@zoya_cyber"
+  }
+]
